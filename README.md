@@ -1,7 +1,7 @@
 # Installation
 
 __NPM__ <br/>
-`npm i isEven`
+`npm i is-even-2.0`
 
 # Usage
 
