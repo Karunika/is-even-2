@@ -7,7 +7,7 @@ __NPM__ <br/>
 
 ```js
 // import
-const isEven = require("is-even-2.0");
+const { isEven } = require("is-even-2.0");
 
 isEven(0); // true
 isEven(5); // false
