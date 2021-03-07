@@ -5,7 +5,7 @@
 # Setup
 
 ```js
-import isEven from "isEven2";
+import isEven from "isEven";
 
 isEven(0); // true
 isEven(5); // false
