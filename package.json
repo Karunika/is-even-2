@@ -1,6 +1,6 @@
 {
   "name": "is-even-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`npm i isEven`",
   "main": "index.js",
   "scripts": {
