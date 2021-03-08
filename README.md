@@ -18,7 +18,3 @@ isEven(183629); // "Tired"
 # Note
 
 Please appreciate the hard work.
-
-# Keywords
-
-None.

@@ -60004,7 +60004,7 @@ function isEven(n){
 			return true;
 			break;
 		default:
-			return "Tired";
+			return "Tired. Figure it out on your own.";
 			break;
 	}
 }
