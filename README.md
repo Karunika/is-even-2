@@ -12,7 +12,7 @@ const { isEven } = require("is-even-2");
 
 isEven(0); // true
 isEven(5); // false
-isEven(183629); // "Tired"
+isEven(183629); // "Tired. Figure it out on your own."
 ```
 
 
