@@ -1,9 +1,10 @@
-# Installation
+# is-even-2
+## Installation
 
 __NPM__ <br/>
 `npm i is-even-2`
 
-# Usage
+## Usage
 
 ```js
 // import
@@ -15,6 +16,6 @@ isEven(183629); // "Tired"
 ```
 
 
-# Note
+## Note
 
 Please appreciate the hard work.
