@@ -1,5 +1,5 @@
-function isEven(n){
-	switch(n){
+const isEven = (n) => {
+	switch (n) {
 		case 0:
 			return true;
 			break;
