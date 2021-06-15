@@ -1,4 +1,4 @@
-const isEven = (n) => {
+var isEven = (n) => {
 	switch (n) {
 		case 0:
 			return true;
