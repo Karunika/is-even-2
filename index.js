@@ -1,4 +1,6 @@
 function isEven(n){
+	if(n.toString()[0]=="-")n=Number(n.toString().slice(1));
+	if(~n.toString().indexOf("."))n=Number(n.toString().slice(0,n.toString().indexOf(".")));
 	switch(n){
 		case 0:
 			return true;
