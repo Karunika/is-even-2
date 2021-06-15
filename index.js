@@ -1,5 +1,5 @@
-function isEven(n){
-	switch(n){
+var isEven = (n) => {
+	switch (n) {
 		case 0:
 			return true;
 			break;
