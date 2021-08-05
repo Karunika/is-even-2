@@ -55490,4 +55490,11 @@ function isEven(n){
 			return true;
 			break;
 		case 18491:
-		
+			return false;
+			break;
+		default:
+			return "Tired. Figure it out on your own.";
+			break;
+	}
+}
+module.exports.isEven = isEven;
