@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Karunika/isEven/issues"
   },
-  "homepage": "https://github.com/Karunika/isEven#readme"
+  "homepage": "https://github.com/Karunika/isEven#readme",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
