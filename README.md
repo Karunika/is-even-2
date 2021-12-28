@@ -15,6 +15,8 @@ isEven(5); // false
 isEven(183629); // "Tired. Figure it out on your own."
 ```
 
+## Testing
+Simply run `jest` to run unit tests.
 
 ## Note
 
